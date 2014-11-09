@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Conversations
 
 Conversations: the very last word in instant messaging
@@ -313,3 +314,7 @@ your XMPP server your file transfer doesn’t work as expected please always
 include a logcat debug output with your issue (see above).
 
 [issues]: https://github.com/siacs/Conversations/issues
+=======
+CyberabadPolice
+===============
+>>>>>>> 3d4b753483b7305720dbc6e6627aa488999d6aab
